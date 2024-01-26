@@ -6,8 +6,8 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-- :credit_card: My full name is **Odin Abasto Montaño** 
-- :school: I'm currently 1st year **web development student**
+- :credit_card: Mi nmbre es **Odin Abasto Montaño** 
+- :school: Soy estudiante de desarrollo web **web development student**
 - :earth_asia: I'm living now in **Motril (Granada)** :palm_tree:
 - :sweat_smile: I'm a newbie in coding, know PHP and Java language. Now I'm focus on learning Web Development basics
 - :monocle_face: I'm interested in coding, sleeping, and watching film
