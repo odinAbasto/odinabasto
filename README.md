@@ -6,11 +6,11 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> Sobre mi
 
-- :credit_card: Mi nmbre es **Odin Abasto Montaño** 
+- :credit_card: Mi nombre es **Odin Abasto Montaño** 
 - :school: Soy estudiante **Desarrollo de Aplicaciones Web**
 - :earth_asia: Vivo en **Motril (Granada)** :palm_tree:
 - :sweat_smile: Aprendiz de muchas tecnologías con preferencia por el **backend**
-- :sunglasses: Mi frase favorita ***"Si lo puedes imaginar, lo puedes programar"*** 
+- :sunglasses: Mi frase favorita es ***"Si lo puedes imaginar, lo puedes programar"*** 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) 
@@ -29,16 +29,11 @@
     <img align="center" alt="odinAbasto | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.facebook.com" target="_blank">
-      <img align="center" alt="odinAbasto | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-  </a> &nbsp;&nbsp;
-  
-  
   <a href="" target="_blank">
     <img align="center" alt="odinAbasto | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 <p> 
 
 <div align="center">
-   Thanks for watching my profile! Have a nice day! :wink: 
+   Ten un buen día :wink: 
 </div>
