@@ -9,7 +9,7 @@
 - :credit_card: Mi nmbre es **Odin Abasto Montaño** 
 - :school: Soy estudiante **Desarrollo de Aplicaciones Web**
 - :earth_asia: Vivo en **Motril (Granada)** :palm_tree:
-- :sweat_smile: Aprendiz con preferencia por el backend 
+- :sweat_smile: Aprendiz de muchas tecnologías con preferencia por el **backend**
 - :sunglasses: Mi frase favorita ***"Si lo puedes imaginar, lo puedes programar"*** 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
